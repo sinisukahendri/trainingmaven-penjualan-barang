@@ -1,0 +1,1 @@
+persiapan sebelum workshop. mengerjakan ulang aplikasi penjualan barang dengan spring-hibernate, kali ini menggunakan maven repository.
